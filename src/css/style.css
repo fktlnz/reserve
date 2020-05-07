@@ -1,0 +1,46 @@
+html, body {
+    background-color: #f1f2f6;
+}
+body {
+    padding-bottom: 50px;
+}
+#calendar {
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.p-reserve-ttl {
+    font-size: 30px;
+    margin: 30px 0;
+    font-weight: bold;
+}
+.c-label-required {
+    color: white;
+    padding: 5px;
+    background-color: #37BC9B;
+    margin-left: 3px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+.c-form-ttl {
+    font-size: 20px;
+    vertical-align: middle;
+    margin: 0 0 5px;
+}
+
+.togglePicker {
+    display: none;
+}
+
+li.picker-switch.accordion-toggle {
+    display: none;
+}
+
+.p-reserve-info {
+    width: 800px;
+    max-width: 100%;
+    margin: 50px auto 0;
+}
